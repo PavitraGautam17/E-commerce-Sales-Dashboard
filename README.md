@@ -39,14 +39,10 @@ To deliver an interactive visual tool that:
 👥 Customer-wise Sales (Bar Chart) → Top-spending customers
 
 • 🚀 Business Impact & Insights
-💰 Profitability: Identified high-profit categories (Printers, Bookcases)
-👥 Customer Insights: Revealed top buyers & preferred payment modes (COD, UPI)
-🗺️ Regional Trends: Maharashtra & Madhya Pradesh lead in sales
-📈 Strategic Value: Helps optimize inventory, payment options & sales strategy
-Slopes by Resort (Line Chart) Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
-Resorts by Skill Level (Dual Line Charts) Two line visuals side by side: one for resorts that cater to beginners, another for experts—allowing skill-level segmentation.
-Elevation Stats (Grouped Bar Chart) Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
-Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lifts Chair lifts Surface lifts Total lifts This helps users gauge resort infrastructure and capacity.
-• Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+-💰 Profitability: Identified high-profit categories (Printers, Bookcases)
+-👥 Customer Insights: Revealed top buyers & preferred payment modes (COD, UPI)
+-🗺️ Regional Trends: Maharashtra & Madhya Pradesh lead in sales
+-📈 Strategic Value: Helps optimize inventory, payment options & sales strategy
+
 
 6. Snapshot/Demo: ![DashBoard Preview](https://github.com/PavitraGautam17/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
