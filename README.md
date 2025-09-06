@@ -3,7 +3,7 @@
 1. E-commerce Sales Insights: Interactive Power BI Dashboard
 A dynamic, interactive dashboard designed to analyze online sales performance—focusing on 💰 revenue, 📈 profit, 👥 customer behavior, and 💳 payment trends across regions.
 
-2. Short Description
+2. Short Description:
 The E-commerce Sales Dashboard is a visually engaging Power BI report that enables users to track and analyze 438K+ sales 💵, 37K+ profit 📊, and 121K+ average order value (AOV) 💎. It helps businesses monitor performance by 🗺️ state, 🛍️ category, 👨‍👩‍👦 customer, and 💳 payment mode—empowering data-driven decisions.
 
 3. Tech Stack
@@ -14,11 +14,11 @@ The E-commerce Sales Dashboard is a visually engaging Power BI report that enabl
 🔗 Data Modeling – Relationships across sales, customers, products & regions
 📁 File Format – .pbix for development & .png for dashboard preview
 
-5. Data Source
+4. Data Source
 📂 Dataset: E-commerce sales transactional data
 Includes 🛒 orders, customers, product categories, sub-categories, states, payment modes, and monthly profits
 
-6. Features / Highlights
+5. Features / Highlights
 • 🏷️ Business Problem
 E-commerce companies struggle to track sales, profit & customer behavior in a unified view. Raw data makes it hard to identify 📌 high-profit categories, 🗺️ strong sales regions, and 💳 customer preferences.
 
@@ -48,3 +48,5 @@ Resorts by Skill Level (Dual Line Charts) Two line visuals side by side: one for
 Elevation Stats (Grouped Bar Chart) Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
 Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lifts Chair lifts Surface lifts Total lifts This helps users gauge resort infrastructure and capacity.
 • Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+
+6. Snapshot/Demo: ![DashBoard Preview](https://github.com/PavitraGautam17/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
