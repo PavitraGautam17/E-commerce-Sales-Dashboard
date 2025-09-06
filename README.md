@@ -29,11 +29,11 @@ To deliver an interactive visual tool that:
 🔍 Enables drill-down by state, quarter, category, customer & payment mode
 💡 Provides insights for marketing, sales strategy & inventory planning
 
-• 🖥️ Walkthrough of Key Visuals
-a. 🔢 KPIs (Top Row) → Sales: 438K, Quantity: 5615, Profit: 37K, AOV: 121K
-b. 🗺️ State-wise Sales (Line Chart) → Revenue distribution by states
-c. 📊 Category-wise Quantity (Donut Chart) → Furniture, Clothing, Electronics share
-d. 💳 Payment Mode Analysis (Donut Chart) → COD, UPI, Debit, Credit, EMI breakdown
+• 🖥️ Walkthrough of Key Visuals </br>
+🔢 KPIs (Top Row) → Sales: 438K, Quantity: 5615, Profit: 37K, AOV: 121K </br>
+🗺️ State-wise Sales (Line Chart) → Revenue distribution by states </br>
+📊 Category-wise Quantity (Donut Chart) → Furniture, Clothing, Electronics share
+💳 Payment Mode Analysis (Donut Chart) → COD, UPI, Debit, Credit, EMI breakdown
 📅 Monthly Profit Trend (Bar Chart) → Profit fluctuations by month
 📦 Sub-Category Profit (Bar Chart) → Printers & Bookcases as top drivers
 👥 Customer-wise Sales (Bar Chart) → Top-spending customers
