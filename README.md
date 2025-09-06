@@ -30,19 +30,19 @@ To deliver an interactive visual tool that:
 💡 Provides insights for marketing, sales strategy & inventory planning
 
 • 🖥️ Walkthrough of Key Visuals
-🔢 KPIs (Top Row) → Sales: 438K, Quantity: 5615, Profit: 37K, AOV: 121K
-🗺️ State-wise Sales (Line Chart) → Revenue distribution by states
-📊 Category-wise Quantity (Donut Chart) → Furniture, Clothing, Electronics share
-💳 Payment Mode Analysis (Donut Chart) → COD, UPI, Debit, Credit, EMI breakdown
+a. 🔢 KPIs (Top Row) → Sales: 438K, Quantity: 5615, Profit: 37K, AOV: 121K
+b. 🗺️ State-wise Sales (Line Chart) → Revenue distribution by states
+c. 📊 Category-wise Quantity (Donut Chart) → Furniture, Clothing, Electronics share
+d. 💳 Payment Mode Analysis (Donut Chart) → COD, UPI, Debit, Credit, EMI breakdown
 📅 Monthly Profit Trend (Bar Chart) → Profit fluctuations by month
 📦 Sub-Category Profit (Bar Chart) → Printers & Bookcases as top drivers
 👥 Customer-wise Sales (Bar Chart) → Top-spending customers
 
 • 🚀 Business Impact & Insights
--💰 Profitability: Identified high-profit categories (Printers, Bookcases)
--👥 Customer Insights: Revealed top buyers & preferred payment modes (COD, UPI)
--🗺️ Regional Trends: Maharashtra & Madhya Pradesh lead in sales
--📈 Strategic Value: Helps optimize inventory, payment options & sales strategy
+a. 💰 Profitability: Identified high-profit categories (Printers, Bookcases)
+b. 👥 Customer Insights: Revealed top buyers & preferred payment modes (COD, UPI)
+c. 🗺️ Regional Trends: Maharashtra & Madhya Pradesh lead in sales
+d. 📈 Strategic Value: Helps optimize inventory, payment options & sales strategy
 
 
 6. Snapshot/Demo: ![DashBoard Preview](https://github.com/PavitraGautam17/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
