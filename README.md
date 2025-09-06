@@ -19,30 +19,30 @@ The E-commerce Sales Dashboard is a visually engaging Power BI report that enabl
 Includes 🛒 orders, customers, product categories, sub-categories, states, payment modes, and monthly profits
 
 5. Features / Highlights
-• 🏷️ Business Problem
+• 🏷️ Business Problem</br>
 E-commerce companies struggle to track sales, profit & customer behavior in a unified view. Raw data makes it hard to identify 📌 high-profit categories, 🗺️ strong sales regions, and 💳 customer preferences.
 
 • 🎯 Goal of the Dashboard
-To deliver an interactive visual tool that:
+To deliver an interactive visual tool that:</br>
 
-📈 Tracks sales, profit & AOV trends
-🔍 Enables drill-down by state, quarter, category, customer & payment mode
-💡 Provides insights for marketing, sales strategy & inventory planning
+📈 Tracks sales, profit & AOV trends</br>
+🔍 Enables drill-down by state, quarter, category, customer & payment mode</br>
+💡 Provides insights for marketing, sales strategy & inventory planning</br>
 
 • 🖥️ Walkthrough of Key Visuals </br>
 🔢 KPIs (Top Row) → Sales: 438K, Quantity: 5615, Profit: 37K, AOV: 121K </br>
 🗺️ State-wise Sales (Line Chart) → Revenue distribution by states </br>
-📊 Category-wise Quantity (Donut Chart) → Furniture, Clothing, Electronics share
-💳 Payment Mode Analysis (Donut Chart) → COD, UPI, Debit, Credit, EMI breakdown
-📅 Monthly Profit Trend (Bar Chart) → Profit fluctuations by month
-📦 Sub-Category Profit (Bar Chart) → Printers & Bookcases as top drivers
-👥 Customer-wise Sales (Bar Chart) → Top-spending customers
+📊 Category-wise Quantity (Donut Chart) → Furniture, Clothing, Electronics share</br>
+💳 Payment Mode Analysis (Donut Chart) → COD, UPI, Debit, Credit, EMI breakdown</br>
+📅 Monthly Profit Trend (Bar Chart) → Profit fluctuations by month</br>
+📦 Sub-Category Profit (Bar Chart) → Printers & Bookcases as top drivers</br>
+👥 Customer-wise Sales (Bar Chart) → Top-spending customers</br>
 
-• 🚀 Business Impact & Insights
-a. 💰 Profitability: Identified high-profit categories (Printers, Bookcases)
-b. 👥 Customer Insights: Revealed top buyers & preferred payment modes (COD, UPI)
-c. 🗺️ Regional Trends: Maharashtra & Madhya Pradesh lead in sales
-d. 📈 Strategic Value: Helps optimize inventory, payment options & sales strategy
+• 🚀 Business Impact & Insights</br>
+a. 💰 Profitability: Identified high-profit categories (Printers, Bookcases)</br>
+b. 👥 Customer Insights: Revealed top buyers & preferred payment modes (COD, UPI)</br>
+c. 🗺️ Regional Trends: Maharashtra & Madhya Pradesh lead in sales</br>
+d. 📈 Strategic Value: Helps optimize inventory, payment options & sales strategy</br>
 
 
 6. Snapshot/Demo: ![DashBoard Preview](https://github.com/PavitraGautam17/E-commerce-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
